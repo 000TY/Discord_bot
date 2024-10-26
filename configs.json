@@ -1,0 +1,8 @@
+﻿{
+    "character_limit": 128,
+    "voice_entry_exit_read": true,
+    "voice_entry_str_back": null,
+    "voice_entry_str_front": "入室",
+    "voice_exit_str_back": null,
+    "voice_exit_str_front": "退出"
+}

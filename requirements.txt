@@ -1,0 +1,6 @@
+requests
+clr
+discord.py[voice]
+discord-py-interactions
+sasawrapper
+pyokaka
