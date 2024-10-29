@@ -22,7 +22,7 @@ from pyokaka import okaka
 os.chdir(os.path.dirname(__file__))
 
 # アクセストークン
-TOKEN =  # アクセストークンをにゅうりょくしてください str
+TOKEN =  # アクセストークンを入力してください str
 
 # サーバーID
 server_id = # ここに使用したいサーバーのをIDを入力してください int
